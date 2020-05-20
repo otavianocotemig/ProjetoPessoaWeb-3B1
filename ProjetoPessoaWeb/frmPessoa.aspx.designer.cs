@@ -51,12 +51,21 @@ namespace ProjetoPessoaWeb
         protected global::System.Web.UI.WebControls.TextBox txt_Altura;
 
         /// <summary>
-        /// Controle Button1.
+        /// Controle txt_Peso.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button1;
+        protected global::System.Web.UI.WebControls.TextBox txt_Peso;
+
+        /// <summary>
+        /// Controle btnEnviar.
+        /// </summary>
+        /// <remarks>
+        /// Campo gerado automaticamente.
+        /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnEnviar;
     }
 }
